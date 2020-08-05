@@ -136,7 +136,7 @@ section{
 }
 .banner {
 	width: 100%;
-	background-image: url("banner.jpg");
+	background-image: url("../images/banner.jpg");
 	height: 405px;
 	background-position: center;
 	
